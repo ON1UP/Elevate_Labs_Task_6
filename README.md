@@ -1,4 +1,4 @@
-# Elevate_Labs_Task_6 : Create a Strong Password and Evaluate Its Strength
+# Task 6 : Create a Strong Password and Evaluate Its Strength
 
 ## ✅ Objective
 Understand what makes a password strong and test it against password strength tools.
